@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<head>
+<style>
+h1 {color:White;}
+h2 {color:White;}
+h3 {color:White;}
+p {color:White;}
+</style>
+<body background="http://www.dreamtemplate.com/dreamcodes/bg_images/color/c10.jpg">
+<h1>Why Should You learn Code? What Can It Be Used For?</h1>
+<h2>Science Fair Project</h2>
+<h3>By: Devin Casper</h3>
+<body>
+<p>
+As an example for my Science Fair project, I designed a website demonstrating one of the uses of code. This website was designed with raw HTML code.
+</p>
+<p>
+Using code elements such as as paragraph tag, which makes a new paragraph, you can design games and websites that you can use for work or just fun.
+</p>
+<p>
+There are many types of code. There is HTML, Python, Java, and many more. It takes years to master all types of code. However, if you want to focus on just one, you can master that in a couple months with enough dedication and time. 
+</p>
+<p>
+The Code for a simple game can be designed very easily if you know what you are doing.
+</p>
+</body>
+<a href="https://codecombat.com">Code Combat</a>
+<p>
+Websites like the one above this one will teach you how code with blocks and other simple shapes.
+</p>
+<p>
+If you would like to learn the more barebones types of coding, you can visit websites like Code Academy or Khan Academy.
+</p>
+<p>
+<a href="https://www.khanacademy.org/">Khan Academy.</a>
+</p>
+<p>
+<a href="https://www.codecademy.com/">Code Academy</a>
+</p>
+<p>
+These websites will teach the coding that is used for today's websites and games. It will teach you the elements of HTML and many other elements of coding.
+</p>
+<p>
+For me, I started learning code with Code Academy(Listed Above). It taught me the basic HTML elements to design a website. In about a year from now, I might be able to design a simple game using HTML.
+</p>
+<p>
+If you want to design a game for personal and public use, you can use Python. Phton is a popular code language used by professionals to design complex game or you could just design a simple one such as the 
+<a href="http://www.me.umn.edu/~dockt036/snake.html">Snake Game</a>
+The snake game was a game that was coded using the language Python.
+</p>
+<p>
+You can use coding for many things, such as:
+</p>
+<p>
+-Games Design
+</p>
+<p>
+-Programming
+</p>
+<p>
+-Many Other Things
+</p>
+</head>
